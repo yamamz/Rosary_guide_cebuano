@@ -17,11 +17,11 @@ public class MysteryDetails extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mystery_details);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         Intent startingIntent=getIntent();
         String mystery=startingIntent.getStringExtra("misteryo");
-        CollapsingToolbarLayout collapsingToolbar = (CollapsingToolbarLayout) findViewById(R.id.collapsing_toolbar);
+        CollapsingToolbarLayout collapsingToolbar = findViewById(R.id.collapsing_toolbar);
         collapsingToolbar.setTitle(mystery);
         initilizedView();
 
@@ -95,16 +95,16 @@ public class MysteryDetails extends AppCompatActivity {
 
     void initilizedView(){
 
-        firstMystery=(TextView)findViewById(R.id.first_mystery);
-        secondMystery=(TextView)findViewById(R.id.second_mystery);
-        thirdMystery=(TextView)findViewById(R.id.third_mystery);
-        fourthMystery=(TextView)findViewById(R.id.fourth_mystery);
-        fiftMystery=(TextView)findViewById(R.id.fifth_mystery);
-        imageFirst=(ImageView)findViewById(R.id.image_first_mystery);
-        imageSecond=(ImageView)findViewById(R.id.image_second_mystery);
-        imageThird=(ImageView)findViewById(R.id.image_third_mystery);
-        imageFouth=(ImageView)findViewById(R.id.image_fourth_mystery);
-        imageFift=(ImageView)findViewById(R.id.image_fifth_mystery);
+        firstMystery= findViewById(R.id.first_mystery);
+        secondMystery= findViewById(R.id.second_mystery);
+        thirdMystery= findViewById(R.id.third_mystery);
+        fourthMystery= findViewById(R.id.fourth_mystery);
+        fiftMystery= findViewById(R.id.fifth_mystery);
+        imageFirst= findViewById(R.id.image_first_mystery);
+        imageSecond= findViewById(R.id.image_second_mystery);
+        imageThird= findViewById(R.id.image_third_mystery);
+        imageFouth= findViewById(R.id.image_fourth_mystery);
+        imageFift= findViewById(R.id.image_fifth_mystery);
 
 
     }
