@@ -1,0 +1,171 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_mystery_details"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.yamamz.santosrosaryo.fragments.MysteryFragment">
+
+<android.support.v4.widget.NestedScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/card_margin">
+
+        <LinearLayout
+            style="@style/Widget.CardContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="16dp"
+                android:gravity="center"
+                android:text="@string/step_mamlandong"
+                android:textColor="@color/colorPrimary"
+                android:textSize="@dimen/title"
+                android:fontFamily="sans-serif-thin"
+                tools:targetApi="jelly_bean" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/image_first_mystery"
+                android:layout_width="@dimen/list_item_avatar_size"
+                android:layout_height="@dimen/list_item_avatar_size"
+                android:layout_gravity="center"
+                android:layout_marginTop="16dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/anunciation1"
+                app:border_color="@color/colorAccent"
+                app:border_width="2dp" />
+
+            <TextView
+                android:id="@+id/first_mystery"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/textmargin"
+                android:layout_marginRight="@dimen/textmargin"
+                android:layout_marginTop="16dp"
+                android:gravity="center"
+                android:text="@string/Kalipay_1st_misteryo"
+                android:textColor="@color/colorPrimary"
+                android:textSize="@dimen/title"
+                android:fontFamily="sans-serif-thin"
+                tools:targetApi="jelly_bean"  />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="16dp"
+                android:gravity="center"
+                android:text="@string/step_Amahan_namo"
+                android:textColor="@color/colorPrimary"
+                android:textSize="@dimen/title"
+                android:fontFamily="sans-serif-thin"
+                tools:targetApi="jelly_bean" />
+
+            <TextView
+                android:textColor="@color/black"
+                android:textSize="@dimen/paragrap"
+                android:fontFamily="cursive"
+                tools:targetApi="jelly_bean"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/textmargin"
+                android:layout_marginRight="@dimen/textmargin"
+                android:gravity="center"
+                android:text="@string/amahan_namo" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="16dp"
+                android:gravity="center"
+                android:text="@string/step_maghimaya_10times"
+                android:textColor="@color/colorPrimary"
+                android:textSize="@dimen/title"
+                android:fontFamily="sans-serif-thin"
+                tools:targetApi="jelly_bean" />
+
+            <TextView
+                android:textColor="@color/black"
+                android:textSize="@dimen/paragrap"
+                android:fontFamily="cursive"
+                tools:targetApi="jelly_bean"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/textmargin"
+                android:layout_marginRight="@dimen/textmargin"
+                android:gravity="center"
+                android:text="@string/maghimaya_ka_maria" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="16dp"
+                android:gravity="center"
+                android:text="@string/step_himaya_sa_amahan"
+                android:textColor="@color/colorPrimary"
+                android:textSize="@dimen/title"
+                android:fontFamily="sans-serif-thin"
+                tools:targetApi="jelly_bean"  />
+
+            <TextView
+                android:textColor="@color/black"
+                android:textSize="@dimen/paragrap"
+                android:fontFamily="cursive"
+                tools:targetApi="jelly_bean"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/textmargin"
+                android:layout_marginRight="@dimen/textmargin"
+                android:gravity="center"
+                android:text="@string/himaya_sa_amahan" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="16dp"
+                android:gravity="center"
+                android:text="@string/step_o_hesus_ko"
+                android:textColor="@color/colorPrimary"
+                android:textSize="@dimen/title"
+                android:fontFamily="sans-serif-thin"
+                tools:targetApi="jelly_bean" />
+
+            <TextView
+                android:textColor="@color/black"
+                android:textSize="@dimen/paragrap"
+                android:fontFamily="cursive"
+                tools:targetApi="jelly_bean"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/textmargin"
+                android:layout_marginRight="@dimen/textmargin"
+                android:gravity="center"
+                android:text="@string/oh_hesus_ko" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+</android.support.v4.widget.NestedScrollView>
+</LinearLayout>

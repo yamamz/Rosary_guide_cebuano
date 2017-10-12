@@ -20,7 +20,6 @@
 		android:fontFamily="sans-serif-condensed"
 		android:textColor="@color/colorAccent"
 		android:textAllCaps="true"
-
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:id="@+id/day" android:layout_marginStart="8dp"
@@ -29,8 +28,8 @@
 		tools:ignore="UnusedAttribute" />
 
 	<TextView
-		android:textSize="14sp"
-		android:fontFamily="sans-serif-condensed"
+		android:textSize="19sp"
+		android:fontFamily="cursive"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:id="@+id/mystery"

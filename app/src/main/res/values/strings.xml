@@ -1,15 +1,15 @@
 <resources>
-	<string name="app_name">Santos Rosaryo</string>
-	<string name="action_settings">Settings</string>
-	<string name="kalipay">Kalipay</string>
-	<string name="kasakit">Kasakit</string>
-	<string name="kahayag">Kahayag</string>
-	<string name="himaya">Himaya</string>
-	<string name="title_activity_mystery_details">MysteryDetails</string>
-	<string name="step_panguros">Buhaton Ang Pagpanguros</string>
-	<string name="sign_of_cross">Sa Ngalan Sa Amahan sa Anak ug sa Espirito Santo, Amen</string>
-	<string name="step_mitoo_ako">Litukon Ang Mitoo Ako</string>
-	<string name="mitoo_ako">Mitoo ako sa Dios nga Amahan, makagagahum sa tanan. Magbubuhat sa
+    <string name="app_name">Santos Rosaryo</string>
+    <string name="action_settings">Settings</string>
+    <string name="kalipay">Kalipay</string>
+    <string name="kasakit">Kasakit</string>
+    <string name="kahayag">Kahayag</string>
+    <string name="himaya">Himaya</string>
+    <string name="title_activity_mystery_details">MysteryDetails</string>
+    <string name="step_panguros">Buhaton Ang Pagpanguros</string>
+    <string name="sign_of_cross">Sa Ngalan Sa Amahan sa Anak ug sa Espirito Santo, Amen</string>
+    <string name="step_mitoo_ako">Litukon Ang Mitoo Ako</string>
+    <string name="mitoo_ako">Mitoo ako sa Dios nga Amahan, makagagahum sa tanan. Magbubuhat sa
 		langit ug sa yuta. Mitoo ako sa iyang Anak nga bugtong nga si Jesukristo, Ginoo nato.
 		Gipanamkon sa lalang sa Espiritu Santo, gianak ni Santa Maria Birhen. Gisakit sa sugo ni
 		Pontio Pilato, gilansang sa krus, namatay ug gilubong. Miadto siya sa mga nangamatay, sa
@@ -18,98 +18,98 @@
 		Santo, mitoo sab ako nga may Santa Iglesia Katolika, may kaambitan sa mga Santos, may
 		kapasayloan sa mga sala ug may pagkabanhaw sa lawas ug sa kinabuhing walay katapusan, Amen.
 	</string>
-	<string name="step_Amahan_namo">Litukon ang \"Amahan Namo\" sa dako nga Lusok</string>
-	<string name="amahan_namo">Amahan Namo, anaa ka sa langit, pagdaygon ang imong ngalan moabot
+    <string name="step_Amahan_namo">Litukon ang \"Amahan Namo\" sa dako nga Lusok</string>
+    <string name="amahan_namo">Amahan Namo, anaa ka sa langit, pagdaygon ang imong ngalan moabot
 		kanamo ang imong gingharian, matuman ang imong pagbuot dinhi sa Yuta maingon sa langit. Ang
 		kalan-on namo sa mata adlaw, ihatag kanamo karon adlawa ug pasayloa kami sa among mga sala,
 		ingon nga magapasaylo kami sa mga nakasala kanamo, ug dili mo kami itugyan sa panulay,
 		hinonoa luwasa kami da dautan. Amen.
 	</string>
-	<string name="step_Maghimaya_ka_maria_3times">STEP 4: Litukon Ang \"Maghimaya Ka Maria\" sa tulo
+    <string name="step_Maghimaya_ka_maria_3times">STEP 4: Litukon Ang \"Maghimaya Ka Maria\" sa tulo
 		ka
 		mangsunod
 		nga
 		Lusok
 	</string>
-	<string name="maghimaya_ka_maria">Maghimaya ka Maria, napuno ka sa grasya, ang Ginoong Dios anaa
+    <string name="maghimaya_ka_maria">Maghimaya ka Maria, napuno ka sa grasya, ang Ginoong Dios anaa
 		kanimo. Bulahan ikaw sa babaye nga tanan; Bulahan usab ang mahal na bunga sa tiyan mo nga si
 		Jesus. Santa Maria, Inahan ka sa Dios, ig ampo mo kaming makasasala, karon ug sa oras ang
 		among ikamatay. Amen.
 	</string>
-	<string name="himaya_sa_amahan">+ Himaya sa Amahan, sa Anak, ug sa Espirito Santo. Maingon sa
+    <string name="himaya_sa_amahan">+ Himaya sa Amahan, sa Anak, ug sa Espirito Santo. Maingon sa
 		sinugdan, karon ug sa gihapon, hangtud sa mga katuigan nga tanan. Amen.
 	</string>
-	<string name="step_himaya_sa_amahan">Litukon Ang \"Himaya sa Amahan\"</string>
+    <string name="step_himaya_sa_amahan">Litukon Ang \"Himaya sa Amahan\"</string>
 
-	<string name="step_maghimaya_10times">Litukon ang 10 ka\"Maghimaya ka Maria\" Sa Napulo ka
+    <string name="step_maghimaya_10times">Litukon ang 10 ka\"Maghimaya ka Maria\" Sa Napulo ka
 		Gagmay nga Mga Lusok
 	</string>
-	<string name="step_mamlandong">Mamalandong sa Misteryo</string>
-	<string name="Kalipay_1st_misteryo">Ang Pagpahibalo sa Anghel</string>
-	<string name="step_o_hesus_ko">Litukon ang \"Oh Hesus ko\"</string>
-	<string name="oh_hesus_ko">O Jesus ko, pasaylo kami sa among mga sala, luwas kami sa kalayo sa
+    <string name="step_mamlandong">Mamalandong sa Misteryo</string>
+    <string name="Kalipay_1st_misteryo">Ang Pagpahibalo sa Anghel</string>
+    <string name="step_o_hesus_ko">Litukon ang \"Oh Hesus ko\"</string>
+    <string name="oh_hesus_ko">O Jesus ko, pasaylo kami sa among mga sala, luwas kami sa kalayo sa
 		imperno, dad-a ang tanang kalag sa purgatoryo ngadto sa langit, labi na kadtong
 		nagkinahanglan kayo sa imong santos mga kalooy ug panabang.
 	</string>
-	<string name="kalipay1">Ang Una\'ng Misteryo Sa Kalipay: Ang pagpanamkon ni Maria Santisima sa
+    <string name="kalipay1">Ang Una\'ng Misteryo Sa Kalipay: Ang pagpanamkon ni Maria Santisima sa
 		lalang
 		sa Espiritu
 		Santo
 	</string>
-	<string name="kalipay2">Ang Ika-duha\'ng Misteryo Sa Kalipay: Ang pagduaw ni Maria Santisima sa
+    <string name="kalipay2">Ang Ika-duha\'ng Misteryo Sa Kalipay: Ang pagduaw ni Maria Santisima sa
 		iyang ig-agaw nga si Santa Isabel
 	</string>
-	<string name="kalipay3">Ang Ika-tulo\'ng Misteryo Sa Kalipay: Ang pagkatawo sa Diosnong Bata
+    <string name="kalipay3">Ang Ika-tulo\'ng Misteryo Sa Kalipay: Ang pagkatawo sa Diosnong Bata
 		didto
 		sa Belen</string>
-	<string name="kalipay4">Ang Ika-upat nga Misteryo Sa Kalipay: Ang paghalad sa Diosnong Bata
+    <string name="kalipay4">Ang Ika-upat nga Misteryo Sa Kalipay: Ang paghalad sa Diosnong Bata
 		didto
 		sa Templo</string>
-	<string name="kalipay5">Ang Ika-lima\'ng Misteryo Sa Kalipay: Ang pagkawala ug pagkakaplag sa
+    <string name="kalipay5">Ang Ika-lima\'ng Misteryo Sa Kalipay: Ang pagkawala ug pagkakaplag sa
 		Diosnong Bata taliwala sa mga
 		makinaadmanon
 	</string>
-	<string name="kasakit1">Ang Una\'ng Misteryo Sa Kasakit: Ang pag-ampo sa atong Ginoong
+    <string name="kasakit1">Ang Una\'ng Misteryo Sa Kasakit: Ang pag-ampo sa atong Ginoong
 		Jesukristo
 		sa taman sa Getsemani</string>
-	<string name="kasakit2">Ang Ika-duha\'ng Misteryo Sa Kasakit: Ang paghampak sa atong Ginoong
+    <string name="kasakit2">Ang Ika-duha\'ng Misteryo Sa Kasakit: Ang paghampak sa atong Ginoong
 		Jesukristo nga ginaid sa usa ka haligi
 		nga bato
 	</string>
-	<string name="kasakit3">Ang Ika-tulo\'ng Misteryo Sa Kasakit: Ang pag purong-purong sa atong
+    <string name="kasakit3">Ang Ika-tulo\'ng Misteryo Sa Kasakit: Ang pag purong-purong sa atong
 		Ginoong
 		Jesukristo sa purong-purong nga
 		tunukon
 	</string>
-	<string name="kasakit4">Ang Ika-upat nga Misteryo Sa Kasakit: Ang pagpas-an sa atong Ginoong
+    <string name="kasakit4">Ang Ika-upat nga Misteryo Sa Kasakit: Ang pagpas-an sa atong Ginoong
 		Jesukristo sa krus sa dalan sa kapaitan
 	</string>
-	<string name="kasakit5">Ang Ika-lima\'ng Misteryo Sa Kasakit: Ang pagkamatay sa atong Ginoong
+    <string name="kasakit5">Ang Ika-lima\'ng Misteryo Sa Kasakit: Ang pagkamatay sa atong Ginoong
 		Jesukristo sa krus</string>
-	<string name="himaya1">Ang Una\'ng Misteryo Sa Himaya: Ang Pagkabanhaw sa atong Ginoo</string>
-	<string name="himaya2">Ang Ika-duha\'ng Misteryo Sa Himaya: Ang pagkayab sa langit sa atong
+    <string name="himaya1">Ang Una\'ng Misteryo Sa Himaya: Ang Pagkabanhaw sa atong Ginoo</string>
+    <string name="himaya2">Ang Ika-duha\'ng Misteryo Sa Himaya: Ang pagkayab sa langit sa atong
 		Ginoo</string>
-	<string name="himaya3">Ang Ika-tulo\'ng Misteryo Sa Himaya: Ang Pagkunsad sa Espirito
+    <string name="himaya3">Ang Ika-tulo\'ng Misteryo Sa Himaya: Ang Pagkunsad sa Espirito
 		Santo</string>
-	<string name="himaya4">Ang Ika-upat nga Misteryo Sa Himaya: Ang Pagdala ngadto sa langit sa
+    <string name="himaya4">Ang Ika-upat nga Misteryo Sa Himaya: Ang Pagdala ngadto sa langit sa
 		mahal
 		nga birhen Maria</string>
-	<string name="himaya5">Ang Ika-lima\'ng Misteryo Sa Himaya: Ang Pagpurongpurong ni Maria nga
+    <string name="himaya5">Ang Ika-lima\'ng Misteryo Sa Himaya: Ang Pagpurongpurong ni Maria nga
 		Rayna
 		sa tanang mga binuhat</string>
-	<string name="Kahayag1">Ang Una\'ng Misteryo Sa Kahayag: Ang pagbunyag kang Jesus sa suba sa
+    <string name="Kahayag1">Ang Una\'ng Misteryo Sa Kahayag: Ang pagbunyag kang Jesus sa suba sa
 		Jordan</string>
-	<string name="Kahayag2">Ang Ika-duha\'ng Misteryo Sa Kahayag: Ang pagpadayag ni Jesus sa kombira
+    <string name="Kahayag2">Ang Ika-duha\'ng Misteryo Sa Kahayag: Ang pagpadayag ni Jesus sa kombira
 		sa
 		kasal sa Cana</string>
-	<string name="Kahayag3">Ang Ika-tulo\'ng Misteryo Sa Kahayag: Ang pagsangyaw sa umaabot nga
+    <string name="Kahayag3">Ang Ika-tulo\'ng Misteryo Sa Kahayag: Ang pagsangyaw sa umaabot nga
 		Ginharian sa Dios</string>
-	<string name="Kahayag4">Ang Ika-upat nga Misteryo Sa Kahayag: Ang pagkausab sa panagway ni
+    <string name="Kahayag4">Ang Ika-upat nga Misteryo Sa Kahayag: Ang pagkausab sa panagway ni
 		Jesus</string>
-	<string name="Kahayag5">Ang Ika-lima\'ng Misteryo Sa Kahayag: Ang pagtukod sa Santos nga
+    <string name="Kahayag5">Ang Ika-lima\'ng Misteryo Sa Kahayag: Ang pagtukod sa Santos nga
 		Eukaristiya</string>
-	<string name="step_maghimaya_ka_rayna">Litukon Ang \"Mayhimaya Ka Rayna\"</string>
-	<string name="maghimaya_ka_rayna">Maghimaya ka rayna, inahan sa kaluoy, kinabuhi, knatam-is,
+    <string name="step_maghimaya_ka_rayna">Litukon Ang \"Mayhimaya Ka Rayna\"</string>
+    <string name="maghimaya_ka_rayna">Maghimaya ka rayna, inahan sa kaluoy, kinabuhi, knatam-is,
 		ikaw ang gilauman namo, maghimaya ka. Nagapanawag kami kanimo, mga hininginlang anak ni iba.
 		Nagapanghupaw kami, nagaagulo, nagapanghilak ‘ning walog nga luhaan. Dan among mag-alampo,
 		ilingi mo kanamo kanang imong mga mata nga maloloy-on. Ug kun ubos na niining paghingilin,
@@ -117,8 +117,8 @@
 		maaghup, ay maloloy-on, ay matam-is nga birhen Maria. I-ampo mo kami, Santa nga Inahan sa
 		Dios. Aron nahimo kaming takus sa nga saad ni Jesu-Kristo. Amen.
 	</string>
-	<string name="step_maghimaya_ka_litanya">Litukon ang Litanya</string>
-	<string name="litanya">Ginoo, Kaloy-i Kami \n Kristo Kaloy-i Kami \n Ginoo, Kaloy-i Kami \n
+    <string name="step_maghimaya_ka_litanya">Litukon ang Litanya</string>
+    <string name="litanya">Ginoo, Kaloy-i Kami \n Kristo Kaloy-i Kami \n Ginoo, Kaloy-i Kami \n
 		Kristo,Dungga Kami \n Kristo, Pamatia KAmi \n Dios, Amahan sa Langit, Kaloy-i Kami\n Dios
 		Anak Manunubos sa
 		Kalibutan, Kaloy-i Kami\n Dios Espiritu Santo, Kaloy-i Kami\n Santa Trinidad, Dios nga usa,
@@ -152,4 +152,7 @@
 		misteryo dinhi sa santos Uyamot nga Rosaryo sa mahal nga Birhen Maria, nag maawat namo ug
 		madawat ang ilang Ginasaad. Tungod sa Maong Jesukristo nga Among Ginoo. Amen.
 	</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
