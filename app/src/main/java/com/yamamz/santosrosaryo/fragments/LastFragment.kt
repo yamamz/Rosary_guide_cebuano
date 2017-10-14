@@ -13,15 +13,13 @@ import com.yamamz.santosrosaryo.R
 /**
  * A simple [Fragment] subclass.
  */
-class MysteryFragment : Fragment() {
+class LastFragment : Fragment() {
 
-var rootView: View?=null
+
     override fun onCreateView(inflater: LayoutInflater?, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
         // Inflate the layout for this fragment
-        rootView =inflater?.inflate(R.layout.fragment_mystery, container, false)
-        return rootView
-
+        return inflater?.inflate(R.layout.fragment_last, container, false)
     }
 
 }// Required empty public constructor

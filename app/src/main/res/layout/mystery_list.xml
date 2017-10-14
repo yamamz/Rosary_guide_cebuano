@@ -6,11 +6,17 @@
 	android:layout_width="match_parent"
 	android:layout_height="wrap_content">
 
-	<ImageView
+
+	<de.hdodenhof.circleimageview.CircleImageView
+		android:scaleType="centerCrop"
+		app:border_color="@color/colorAccent"
+		app:border_width="1dp"
 		android:layout_width="40dp"
-		android:layout_height="40dp" app:srcCompat="@drawable/joyful"
+		android:layout_height="40dp"
+		app:srcCompat="@drawable/nativity1"
 		android:id="@+id/imageView"
-		app:layout_constraintBottom_toBottomOf="parent" android:layout_marginBottom="8dp"
+		app:layout_constraintBottom_toBottomOf="parent"
+		android:layout_marginBottom="8dp"
 		android:layout_marginTop="8dp" app:layout_constraintTop_toTopOf="parent"
 		android:layout_marginStart="8dp" app:layout_constraintLeft_toLeftOf="parent"
 		android:layout_marginLeft="8dp"

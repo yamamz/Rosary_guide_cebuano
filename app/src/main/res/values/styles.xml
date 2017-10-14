@@ -23,4 +23,20 @@
 	<style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
 	<style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
 
+	<style name="tab_text" parent="@android:style/TextAppearance.Widget.TabWidget">
+		<item name="android:fontFamily">cursive</item>
+		<item name="android:textSize">19sp</item>
+		<item name="android:textColor">#FFFFFF</item>
+	</style>
+
+
+    <style name="MyDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <!--dialog background-->
+        <item name="android:windowBackground">@drawable/dialog_style</item>
+    </style>
+
 </resources>

@@ -1,4 +1,9 @@
 <resources>
+	<string name="action_about">Developer</string>
+	<string name="dialog_title">about</string>
+	<string name="dialog_message1">Created by Raymundo T. Melecio, in Kotlin programming language. From Corte-baud
+        Getafe, Bohol.
+                                    </string>
     <string name="app_name">Santos Rosaryo</string>
     <string name="action_settings">Settings</string>
     <string name="kalipay">Kalipay</string>
