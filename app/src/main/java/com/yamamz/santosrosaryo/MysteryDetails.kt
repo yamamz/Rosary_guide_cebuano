@@ -19,7 +19,7 @@ class MysteryDetails : AppCompatActivity() {
         setContentView(R.layout.activity_mystery_details)
         setSupportActionBar(toolbar)
         val startingIntent = intent
-        val mystery = startingIntent.getStringExtra("misteryo")
+       // val mystery = startingIntent.getStringExtra("misteryo")
         collapsing_toolbar.title = " "
 
 
