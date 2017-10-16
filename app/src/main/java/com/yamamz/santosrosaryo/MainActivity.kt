@@ -62,33 +62,25 @@ class MainActivity : AppCompatActivity() {
 
         //joyFull
         val ramdomJoyful=Util.joyFull_array
-        val joyfulPick=Random().nextInt(ramdomJoyful.size)
-        val joyful=ramdomJoyful[joyfulPick]
         //sorrowful
         val ramdomsorrowful=Util.sorrowFull_array
-        val sorrowfullPick=Random().nextInt(ramdomsorrowful.size)
-        val sorrowful=ramdomsorrowful[sorrowfullPick]
         //gloriuos
         val ramdomGlorious=Util.glorious_array
-        val gloriousPick=Random().nextInt(ramdomGlorious.size)
-        val glorious=ramdomGlorious[gloriousPick]
         //luminous
         val ramdomluminous=Util.luminous_array
-        val luminousPick=Random().nextInt(ramdomluminous.size)
-        val luminous=ramdomluminous[luminousPick]
-        val lunes = Mystery("Lunes", "Kalipay", joyful)
+        val lunes = Mystery("Lunes", "Kalipay", ramdomJoyful[Random().nextInt(ramdomJoyful.size)])
         mysteries.add(lunes)
-        val martes = Mystery("Martes", "Kasakit", sorrowful)
+        val martes = Mystery("Martes", "Kasakit", ramdomsorrowful[Random().nextInt(ramdomGlorious.size)])
         mysteries.add(martes)
-        val merkules = Mystery("Meyerkules", "Himaya", glorious)
+        val merkules = Mystery("Meyerkules", "Himaya", ramdomGlorious[Random().nextInt(ramdomGlorious.size)])
         mysteries.add(merkules)
-        val huwebes = Mystery("Huwebes", "Kahayag", luminous)
+        val huwebes = Mystery("Huwebes", "Kahayag", ramdomluminous[Random().nextInt(ramdomluminous.size)])
         mysteries.add(huwebes)
-        val beirnes = Mystery("Byernes", "Kasakit", sorrowful)
+        val beirnes = Mystery("Byernes", "Kasakit", ramdomsorrowful[Random().nextInt(ramdomGlorious.size)])
         mysteries.add(beirnes)
-        val sabado = Mystery("Sabado", "Kalipay", joyful)
+        val sabado = Mystery("Sabado", "Kalipay", ramdomJoyful[Random().nextInt(ramdomJoyful.size)])
         mysteries.add(sabado)
-        val domingo = Mystery("Domingo", "Himaya", glorious)
+        val domingo = Mystery("Domingo", "Himaya", ramdomGlorious[Random().nextInt(ramdomGlorious.size)])
         mysteries.add(domingo)
     }
 
